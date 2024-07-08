@@ -14,7 +14,7 @@ config.color_scheme = 'Nord'
 
 config.font_size = 13.0
 
-config.window_background_opacity = 0.8
+config.window_background_opacity = 0.85
 config.macos_window_background_blur = 60
 
 config.harfbuzz_features = { 'calt=0', 'clig=0', 'liga=0' }
