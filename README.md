@@ -1,1 +1,3 @@
-> My WezTerm Config
+# WezTerm Config
+
+`~/.config/wezterm/wezterm.lua`
